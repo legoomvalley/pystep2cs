@@ -1,3 +1,4 @@
+Py-Step to CS is a meetup program under #devlepak series. Here we let communities actively gather and contribute together
 # Py-Step to CS
 
 This seminar is a game that starts with a basic explanation of what 0 and 1 functions are in a language that computers understand. At the sacred level, computer software programming using Python is taught to participants who are beginners in the world of Computer Science.
